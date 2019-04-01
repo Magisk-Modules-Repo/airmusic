@@ -1,7 +1,6 @@
-id=airaudio
-name=AirAudio - stream your music!
-version=v4
-versionCode=4
-author=AirAudio - stream your music!
+id=template
+name=Template Module
+version=v1
+versionCode=1
+author=topjohnwu
 description=This module enables AirAudio's "system-mode" and allows you to stream all your audio to any network-enabled receiver.
-minMagisk=1500
