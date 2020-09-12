@@ -6,4 +6,8 @@
 # if Magisk change its mount point in the future
 MODDIR=${0%/*}
 
+sleep 20
+am startservice eu.airaudio.aarscservice/.AARSCService
+am startservice app.airmusic.amrscservice/.AMRSCService
+
 # This script will be executed in late_start service mode
