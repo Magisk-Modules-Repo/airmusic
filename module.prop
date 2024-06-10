@@ -1,6 +1,6 @@
-id=airaudio
+id=airmusic
 name=AirMusic - stream your music!
-version=v10
-versionCode=10
+version=v11
+versionCode=11
 author=AirMusic - stream your music!
 description=This module enables AirMusic's (aka AirAudio) "system-mode" and allows you to stream all your audio to any network-enabled receiver.
